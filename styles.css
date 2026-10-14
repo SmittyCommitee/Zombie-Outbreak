@@ -1,0 +1,39 @@
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    font-style: italic;
+    border: 5px solid black;
+}
+
+h2, h3{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+main {
+    color: white;
+    text-align: center;
+    margin: 20%;
+    margin-top: 5px;
+}
+
+ul, ol {
+    margin: 20%;
+    margin-top: 0;
+    margin-bottom: 5px;
+
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
